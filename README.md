@@ -1,0 +1,2 @@
+# bwa-website-development-dengan-laravel-8-jetstream
+Pada materi kali ini, kita akan mempelajari fitur yang dapat kita gunakan dari Laravel Jetstream dan cara pakai Laravel Jetstream dalam pembuatan aplikasi kita.  Laravel Jetstream adalah library official dari Framework Laravel yang dapat kita install pada aplikasi baru Laravel untuk mempermudah pembuatan aplikasi. Fitur yang diberikan adalah Autentikasi, Manajemen Profile, Keamanan, API, dan Manajemen Tim, tanpa kita harus menyentuh kode sama sekali
